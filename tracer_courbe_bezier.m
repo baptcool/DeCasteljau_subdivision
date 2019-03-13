@@ -1,4 +1,4 @@
-%Millot Duchange
+
 % exemple d'appelle de fonction --> % tracer_courbe_bezier([0 0 1 1 ], [0 1 1 0])
 function []  = tracer_courbe_bezier(px,py)
      t = [0:0.005:1]

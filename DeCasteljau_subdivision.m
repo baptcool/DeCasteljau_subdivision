@@ -1,4 +1,4 @@
-% MILLOT baptiste  - -- - Duchange Pierre-antoine
+
 % DeCasteljau_subdivision([1 0.5; 2 6; 5 7; 8 6; 9 0.5])
 
 function[] = DeCasteljau_subdivision(points)

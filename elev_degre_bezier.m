@@ -1,4 +1,4 @@
-% MILLOT baptiste  - -- - Duchange Pierre-antoine
+
 %disp(’Click gauche pour insérer les points de contrôle et click droit pour le dernier et terminer.’);
 touche = 1 
 figure

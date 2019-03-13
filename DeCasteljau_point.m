@@ -1,4 +1,4 @@
-% MILLOT baptiste  - -- - Duchange Pierre-antoine
+
 % DeCasteljau_point([1 0.5; 2 6; 5 7; 8 6; 9 0.5], 1/2)
 
 function[v] = DeCasteljau_point(points,x)
